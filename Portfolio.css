@@ -93,7 +93,7 @@ h1 {
 .aboutme-image {
     height: 350px;
     width: 300px;
-    background-image: url("website/sneha1.jpg");
+    background-image: url("/website/sneha1.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -129,7 +129,7 @@ h1 {
     background: white;
     position: relative;
     border-radius: 10px;
-    background-image: url("website/earth1.jpg");
+    background-image: url("/website/earth1.jpg");
     margin: 20px;
     background-size: cover;
     background-position: center;
@@ -141,7 +141,7 @@ h1 {
     background: white;
     position: relative;
     border-radius: 10px;
-    background-image: url("website/bbc-news.png");
+    background-image: url("/website/bbc-news.png");
     margin: 20px;
     background-size: cover;
     background-position: center;
